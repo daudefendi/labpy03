@@ -76,7 +76,12 @@ Untuk line 1 Sampai line 8 silahkan ketik seperti line dibawah ini
 Berikut contoh gambar nya :
 # ![a](https://user-images.githubusercontent.com/46699723/52763662-4c2bcf80-304f-11e9-83c4-a3b6a647f570.png)
 
+# KETIGA
+Baiklah kita selesai membuat scriptnya, kita akan menjalankan nya di cmd, seperti biasa kita akan memanggil file nya.
+berikut contoh gambarnya saat kita jalankan scriptnya di cmd :
+# ![b](https://user-images.githubusercontent.com/46699723/52763910-569a9900-3050-11e9-8cb4-6607b77b1e77.png)
+Baiklah kita telah selesai dengan latihan 2, kemudian kita akan melanjutkan nya di Program1.
 
-
+# ALUR ALGORITMA Program1.py
 
 
