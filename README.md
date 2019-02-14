@@ -44,3 +44,39 @@ Contoh Gambar script di sublime :
 Baiklah kemudian kita kan mencoba membuka file script kita melalu cmd.
 Jalankan Python seperti biasa melalui cmd maka hasilnya akan seperti gambar berikut.
 # ![5](https://user-images.githubusercontent.com/46699723/52762943-4d0f3200-304c-11e9-9dbc-1dbd9fe82dbb.png)
+Baiklah Kita telah selesai di latihan1.py kita kan lanjut ke latihan2.py.
+
+# ALUR ALGORITMA latihan2.py
+Baiklah kita akan membuat latihan2.py yang mana latihan ini membahas tentang cara menentukan nilai bilangan terbesar menggunankan syntax "max". kita akan mulai membuat scriptnya menggunakan sublime terlebih dahulu.
+
+# PERTAMA
+Seperti biasa kita akan membuat file dengan format python (py) menggunakan sublime text , dengan cara, buka sublime text , kemudian klik new files, kemudian simpan file dengan nama latihan2.py contoh gambar sebagai berikut :
+
+# ![1](https://user-images.githubusercontent.com/46699723/52763233-9613b600-304d-11e9-89fe-e0bb0d0d51f7.png)
+# ![2](https://user-images.githubusercontent.com/46699723/52763234-96ac4c80-304d-11e9-8b07-0827b9a54626.png)
+# ![3](https://user-images.githubusercontent.com/46699723/52763236-96ac4c80-304d-11e9-817d-8f651bdec61f.png)
+# ![part2](https://user-images.githubusercontent.com/46699723/52763238-9744e300-304d-11e9-8020-0473cc65f6ba.png)
+
+# KEDUA
+Kita akan membuat scriptnya di sublime dengan mengetikan syntax sebangai berikut :
+Untuk line 1 Sampai line 8 silahkan ketik seperti line dibawah ini
+
+    print("\nMenentukan BIlangan Terbesar")
+    print("\n")
+
+    max=0
+    while True:
+	    a=int(input("Masukan Bilangan :"))
+	    if max < a:
+		max = a
+	if a==0:
+		break
+    print("Bilangan Terbesar = ", max)
+
+Berikut contoh gambar nya :
+# ![a](https://user-images.githubusercontent.com/46699723/52763662-4c2bcf80-304f-11e9-83c4-a3b6a647f570.png)
+
+
+
+
+
