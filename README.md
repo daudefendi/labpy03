@@ -84,4 +84,45 @@ Baiklah kita telah selesai dengan latihan 2, kemudian kita akan melanjutkan nya 
 
 # ALUR ALGORITMA Program1.py
 
+# PERTAMA
+Seperti biasa kita akan membuat file dengan format python (py) menggunakan sublime text , dengan cara, buka sublime text , kemudian klik new files, kemudian simpan file dengan nama program1.py contoh gambar sebagai berikut :
+
+# ![1](https://user-images.githubusercontent.com/46699723/52764194-98780f00-3051-11e9-8e16-fcc74aa48787.png)
+# ![2](https://user-images.githubusercontent.com/46699723/52764195-98780f00-3051-11e9-9f9e-366215c6869b.png)
+# ![3](https://user-images.githubusercontent.com/46699723/52764196-9910a580-3051-11e9-9272-70386a79b13a.png)
+# ![c](https://user-images.githubusercontent.com/46699723/52764197-99a93c00-3051-11e9-9f5e-385eb8103628.png)
+
+# KEDUA
+Kita akan melanjutkan nya dengan mengetik scriptnya di sublime text, berikut scriptnya :
+
+	a = 100000000
+	for x in range(1,9):
+	    if(x>=1 and x<=2):
+	        b=a*0
+		print("Laba Bulan Ke-",x," :",b)
+	    if(x>=3 and x<=4):
+		c=a*0.1
+		print("Laba Bulan Ke-",x," :",c)
+	    if(x>=5 and x<=7):
+		d=a*0.5
+		print("Laba Bulan Ke-",x," :",d)
+	    if(x==8):
+		e=a*0.2
+		print("Laba Bulan Ke-",x," :",e)
+	total = b+b+c+c+d+d+d+e
+	print("\nTotal : ", total)
+
+Berikut contoh gambar scriptnya :
+# ![dallas](https://user-images.githubusercontent.com/46699723/52764357-4edbf400-3052-11e9-9325-b4db8dbf2b17.png)
+
+# KETIGA
+Kita telah selesai membuat scriptnya, dan kita akan menjalankan scriptnya di cmd, berikut gambar hasilnya :
+# ![selesai](https://user-images.githubusercontent.com/46699723/52764418-a712f600-3052-11e9-9fa7-3eee6d92b714.png)
+
+Baiklah demikian step by step cara menyelasaikan tugas latihan1.py, latihan2.py, dan program1.py.
+
+DAUD YUSUF EFENDI - 311810375
+TI.18.A.1
+
+
 
